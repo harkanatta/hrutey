@@ -20,9 +20,10 @@ Hrútey
 
 
  :camera: [Myndir :point_left:](https://hackmd.io/@Valtyr/HJGQK_4VY) úr kortlagningarferðinni
+ 
  :camera: [Myndir :point_left:](https://hackmd.io/@Valtyr/rJQcZZOou#/) úr örfeltinu
 
 ---
 ## :notebook:  Feltbók
 Hér má koma með texta um Hrútey, sögu, skógrækt og friðun. Bæta við myndum og athugunum frá 2020 en ástand er óbreytt fyrir utan brúarstöpla og ný bílastæði.
-Það mætti fljúga yfir einna með dróna og hnitsetja kort af henni allri.
+Það mætti fljúga yfir eyna með dróna og hnitsetja kort af henni allri.
