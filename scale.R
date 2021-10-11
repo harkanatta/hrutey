@@ -60,9 +60,8 @@ ganga <- rgdal::readOGR("kort/ganga.shp")
 breidur <- rgdal::readOGR("kort/breidur.shp")
 m <- leaflet() %>%
   addTiles() %>% 
-  addProviderTiles(providers$Esri.WorldImagery) %>%
   addScaleBar() %>%  
-  addPolygons(data = breidur,color = "#33FFE9", weight = 1, smoothFactor = 0.5,
+  addPolygons(data = breidur,color = "#33FFE1", weight = 1, smoothFactor = 0.5,
               opacity = 1.0, fillOpacity = 0.5) %>% 
   addCircleMarkers(data = image_files,
                    popup = leafpop::popupImage(image_files$myndir),

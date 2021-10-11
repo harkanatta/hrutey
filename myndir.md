@@ -1,6 +1,6 @@
 ---
-title: Myndir úr Ásbjarnarvötnum 2021
-tags: NNV, 2021, Blöndkuós, feltbók, Hrútey, ferðamannastaðir, skógrækt
+title: Myndir úr Hrútey 2021
+tags: NNV, 2021, Blöndkuós, feltbók, Hrútey, ferðamannastaðir, skógrækt, lúpína
 description: Myndir úr Hrútey 2021
 slideOptions:
   theme: league
